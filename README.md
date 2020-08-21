@@ -22,7 +22,7 @@ similarly, M04, M05 etc.. (indicates Male speaker with speakerID 04, 05 etc.)
 In each folder there are telephone band speech data (with 8kHz sampling rate) named as follows 
 
 Eg: F01sent_01.wav -- 
-          F - Gender (female/male) 
-         01 - Speaker ID 
-    sent_01 - utterance ID 
-    .wav    - wave file extension 
+          F - Gender (female/male) ;
+         01 - Speaker ID ;
+    sent_01 - utterance ID ; 
+    .wav    - wave file extension .
