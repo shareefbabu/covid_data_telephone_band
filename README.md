@@ -18,6 +18,8 @@ Each folder is named after the speaker
        Eg: F01, F02 etc., (indicates Female speaker with speaker ID 01, 02 etc.)
 similarly, M04, M05 etc.. (indicates Male speaker with speakerID 04, 05 etc.)
 
+Speaker 01 to 10 are COVID positive and rest of the speakers are negative.
+
 
 In each folder there are telephone band speech data (with 8kHz sampling rate) named as follows 
 
